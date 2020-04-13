@@ -1,1 +1,1 @@
-
+This Python program is used to understand Multithreading and Multiprocessing concepts in Python. Follow this Medium article to learn more: https://medium.com/@varunkumar032/diy-multithreading-vs-multiprocessing-in-python-fb93698ca7f3
